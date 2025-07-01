@@ -14,9 +14,19 @@ A fun, interactive, and beginner-friendly **Java Swing Tic Tac Toe** game where 
 - 🔁 **Game Reset**: The game resets automatically after each win.
 
 ---
+📂 Project Structure
+css
+Copy
+Edit
+📦 friendly-TicTacToe-Game
+ ┣ 📜 theFrame.java         ← Start screen UI with name input
+ ┣ 📜 TicTacToeUi.java      ← Main game logic and board
+ ┣ 📸 letter-o_9467531.png  ← O player icon
+ ┣ 📸 x_13932861.png        ← X player icon
+ ┗ 📜 README.md
 
+ 
 ## 🖥️ Tech Stack
-
 - **Java**
 - **Swing (GUI Library)**
 
