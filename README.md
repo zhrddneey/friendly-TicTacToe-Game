@@ -28,3 +28,8 @@ A fun, interactive, and beginner-friendly **Java Swing Tic Tac Toe** game where 
    ```bash
    git clone https://github.com/zhrddneey/friendly-TicTacToe-Game.git
    cd friendly-TicTacToe-Game
+2. Open in Eclipse or any Java IDE
+Make sure the image icons (letter-o_9467531.png, x_13932861.png) are in your project root or /src directory.
+
+3. Run the program
+Run the theFrame.java file to start the game.
